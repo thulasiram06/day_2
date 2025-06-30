@@ -1,0 +1,3 @@
+a=2455645673467834564045678456745678345674567586123456789.4
+print("given float is:" ,a)
+print("type of a is:" ,type(a))
